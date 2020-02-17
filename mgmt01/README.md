@@ -1,1 +1,1 @@
-mgmt01-wyatt
+host = mgmt01-wyatt
